@@ -1,12 +1,11 @@
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  ,
- apiKey: "AIzaSyDLTYTUBse_DM181dhBxRVq4ypeYiIDXa4",
-  authDomain: "sinfb3-9a701.firebaseapp.com",
-  projectId: "sinfb3-9a701",
-  storageBucket: "sinfb3-9a701.appspot.com",
-  messagingSenderId: "176550063175",
-  appId: "1:176550063175:web:ebfc8f59fd8157b68a5562"
+  apiKey: "AIzaSyDNq0t5v4hDdhL1IOokARXz89gjtD1Et2E",
+  authDomain: "evaluacion3japr.firebaseapp.com",
+  projectId: "evaluacion3japr",
+  storageBucket: "evaluacion3japr.appspot.com",
+  messagingSenderId: "386078755032",
+  appId: "1:386078755032:web:4b7548d0368850b821efad"
 };
 firebase.initializeApp(firebaseConfig);
 const auth=firebase.auth();
